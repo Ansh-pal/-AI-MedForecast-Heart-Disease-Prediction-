@@ -1,7 +1,7 @@
 # 🩺 AI MedForecast – Heart Disease Prediction
 
 A Machine Learning project that predicts the **10-year risk of Coronary Heart Disease (CHD)** using the **Framingham Heart Study dataset**.
-The project leverages **Random Forest Classifier**, **SHAP explainability**, and an **interactive Gradio app** for real-time predictions.
+The project leverages **Random Forest Classifier**, **SHAP explainability**, and an **interactive Gradio app** for real-time predictions
 
 ---
 
